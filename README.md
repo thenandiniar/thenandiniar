@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandini A R</h1>
-<h3 align="center">AI/ML Engineer | Python • C++ • DSA • AI/ML Engineer </h3>
+<h3 align="center"> Python • C++ • DSA • AI/ML Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenandiniar&label=Profile%20views&color=0e75b6&style=flat" alt="thenandiniar" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **A Healthcare AI Assistant that uses NLP + Deep Learning to predict patient queries and recommend possible diagnoses.**
+
 
 - 🌱 I’m currently learning **Frameworks: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers. Courses: Andrew Ng’s Deep Learning Specialization, Fast.ai for practical deep learning, and Coursera’s MLOps.**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **thenandiniar@gmail.com and LinkedIn https://www.linkedin.com/in/thenandiniar**
 
-- ⚡ Fun fact **When I’m not training neural networks, I’m probably training my brain to debug life like it’s just another stack overflow error.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandini A R</h1>
-<h3 align="center">AI/ML Engineer in Progress | Python • C++ • DSA • Deep Learning</h3>
+<h3 align="center">AI/ML Engineer | Python • C++ • DSA • AI/ML Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenandiniar&label=Profile%20views&color=0e75b6&style=flat" alt="thenandiniar" /> </p>
 

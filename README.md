@@ -1,33 +1,175 @@
-<h1 align="center">Hi 👋, I'm Nandini A R</h1>
-<h3 align="center"> Python • C++ • DSA • AI/ML Engineer </h3>
+# 👋 Hi, I'm Nandini A R
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenandiniar&label=Profile%20views&color=0e75b6&style=flat" alt="thenandiniar" /> </p>
+### AI/ML Engineer • GenAI • Python • C++ • DSA
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thenandiniar" alt="thenandiniar" /></a> </p>
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Generative AI, and Software Engineering**.
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I enjoy turning ideas into working products — from ML models and GenAI applications to full-stack AI systems.
 
+* 🔭 Currently building **AI/ML & GenAI projects**
+* 🧠 Strengthening **DSA, C++, Python & Computer Science fundamentals**
+* 🤖 Exploring **LLMs, RAG, AI Agents & AI Engineering**
+* 🌱 Learning to take AI systems **from prototype → production**
+* 🌍 Interested in **Open Source & real-world problem solving**
+* 🏆 Participating in **hackathons and developer programs**
+* 💡 Interested in AI applications in **education, productivity and social impact**
+* 📫 Reach me at **[thenandiniar@gmail.com](mailto:thenandiniar@gmail.com)**
 
+---
 
-- 🌱 I’m currently learning **Frameworks: PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers. Courses: Andrew Ng’s Deep Learning Specialization, Fast.ai for practical deep learning, and Coursera’s MLOps.**
+## 🚀 What I'm Working On
 
-- 👯 I’m looking to collaborate on **Open-source projects in Computer Vision, NLP, or Generative AI. AI tools that can bring social impact (education, healthcare, sustainability).**
+### 🤖 Generative AI
 
-- 🤝 I’m looking for help with **Scaling AIML projects to production using MLOps tools like Kubeflow, MLflow, and Docker. Advanced topics in Transformers, LLM fine-tuning, and cloud deployment.**
+* Large Language Models
+* Prompt Engineering
+* Embeddings & Vector Search
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* LLM application development
 
-- 📫 How to reach me **thenandiniar@gmail.com and LinkedIn https://www.linkedin.com/in/thenandiniar**
+### 🧠 Machine Learning
 
+* Supervised & Unsupervised Learning
+* Feature Engineering
+* Model Evaluation
+* Deep Learning
+* Computer Vision
+* Natural Language Processing
 
+### 💻 Software Engineering
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thenandiniar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thenandiniar" height="30" width="40" /></a>
-<a href="https://instagram.com/thenandiniar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenandiniar" height="30" width="40" /></a>
+* Python
+* C++
+* Data Structures & Algorithms
+* REST APIs
+* Backend Development
+* Databases
+* Git & GitHub
+* Docker
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,sql" />
 </p>
 
+### AI / ML
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thenandiniar&show_icons=true&locale=en&layout=compact" alt="thenandiniar" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thenandiniar&show_icons=true&locale=en" alt="thenandiniar" /></p>
+**Also exploring:** Hugging Face 🤗 • Transformers • LLMs • RAG • AI Agents
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenandiniar&" alt="thenandiniar" /></p>
+### Web & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,html,css" />
+</p>
+
+### Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,github,linux,vscode" />
+</p>
+
+---
+
+## 📌 Featured Areas
+
+```text
+Artificial Intelligence
+        │
+        ├── Machine Learning
+        │      ├── Deep Learning
+        │      ├── NLP
+        │      └── Computer Vision
+        │
+        └── Generative AI
+               ├── LLMs
+               ├── RAG
+               ├── Embeddings
+               └── AI Agents
+
+Software Engineering
+        │
+        ├── DSA
+        ├── Backend
+        ├── APIs
+        ├── Databases
+        ├── Docker
+        └── System Design
+```
+
+---
+
+## 🌍 Open Source
+
+I'm interested in contributing to open-source projects involving:
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 💬 NLP & Generative AI
+* 👁️ Computer Vision
+* 🛠️ Developer Tools
+* 🌱 Technology for social impact
+
+Currently working towards becoming a stronger **open-source contributor** through real-world projects, pull requests, and collaboration with developer communities.
+
+---
+
+## 🏆 Projects
+
+### 🤖 Generative AI Project
+
+Exploring practical applications of **LLMs, RAG, and AI-powered workflows**.
+
+### 🧠 Machine Learning Projects
+
+Building ML systems involving **data processing, model training, evaluation, and deployment**.
+
+### 💻 DSA & Competitive Programming
+
+Practicing **Data Structures and Algorithms in C++** and solving problems to strengthen problem-solving skills.
+
+> 🚧 More projects are currently being built. Stay tuned!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenandiniar&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenandiniar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thenandiniar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/thenandiniar">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://instagram.com/thenandiniar">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:thenandiniar@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 💭 Building, learning, breaking things, and building them better.
+
+**Always curious. Always experimenting. Always shipping. 🚀**
